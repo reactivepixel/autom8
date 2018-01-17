@@ -1,6 +1,6 @@
 {
   "name": "autom8",
-  "version": "1.0.0",
+  "version": "v1.1.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "yargs": "^10.1.1"
   }
 }
