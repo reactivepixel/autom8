@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^3.9.1",
+    "gulp-git": "^2.5.1",
     "yargs": "^10.1.1"
   }
 }
