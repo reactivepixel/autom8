@@ -1,16 +1,1 @@
-{
-  "name": "autom8",
-  "version": "v1.1.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "gulp": "^3.9.1",
-    "gulp-git": "^2.5.1",
-    "yargs": "^10.1.1"
-  }
-}
+{"name":"autom8","version":"v1.2.0","description":"","main":"index.js","scripts":{"test":"echo \"Error: no test specified\" && exit 1"},"author":"","license":"ISC","dependencies":{"gulp":"^3.9.1","gulp-git":"^2.5.1","yargs":"^10.1.1"}}
